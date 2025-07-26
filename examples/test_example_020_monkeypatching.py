@@ -14,9 +14,9 @@ Tests:
 Usage:
 - Run: `pytest`
 
-monkeypatch.setenv(key, value) – temporarily sets an environment variable
-monkeypatch.setattr(obj, attr_name, new_value) – replaces a function or attribute
-Everything is automatically restored after the test, so changes don’t leak.
+monkeypatch.setenv(key, value) - temporarily sets an environment variable
+monkeypatch.setattr(obj, attr_name, new_value) - replaces a function or attribute
+Everything is automatically restored after the test, so changes don't leak.
 """
 
 import os
