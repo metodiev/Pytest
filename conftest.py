@@ -15,3 +15,7 @@ def pytest_addoption(parser):
         default="dev",
         help="Environment to run tests against: dev / staging / prod",
     )
+
+@pytest.fixture
+def shared_data():
+    return {"framework": "pytest", "language": "Python"}
