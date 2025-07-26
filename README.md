@@ -5,7 +5,7 @@ This repository demonstrates the use of Pytest for testing Python applications. 
 ##  Examples
 
 ###  Basics
--  Basic `assert`
+-  Basic assert
 -  Parametrize
 -  Skipping tests
 -  Marking tests
@@ -19,21 +19,21 @@ This repository demonstrates the use of Pytest for testing Python applications. 
 -  Autouse fixtures
 
 ### Test Structure
-- `conftest.py`
+-  conftest.py
 -  Nested test directories
--  Using `pytest.ini`
+-  Using pytest.ini
 
 ###  Advanced Features
 -  Custom markers
 -  Monkeypatching
--  Mocking with `unittest.mock`
+-  Mocking with unittest.mock
 -  Pytest-Django / Pytest-Flask integration
 -  Capturing stdout/stderr
 
 ###  Plugins
--  `pytest-xdist` (parallel tests)
--  `pytest-cov` (coverage)
--  `pytest-html` (HTML reports)
--   Writing a custom plugin
+-  pytest-xdist (parallel tests)
+-  pytest-cov (coverage)
+-  pytest-html (HTML reports)
+-  Writing a custom plugin
 
 
