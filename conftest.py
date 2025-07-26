@@ -19,3 +19,8 @@ def pytest_addoption(parser):
 @pytest.fixture
 def shared_data():
     return {"framework": "pytest", "language": "Python"}
+
+
+@pytest.fixture
+def sample_data():
+    return {"name": "Test", "age": 300}
