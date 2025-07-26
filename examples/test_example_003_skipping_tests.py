@@ -1,5 +1,3 @@
-# examples/test_example_003_skipping_tests.py
-
 import pytest
 import sys
 

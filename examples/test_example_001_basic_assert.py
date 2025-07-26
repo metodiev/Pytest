@@ -1,5 +1,3 @@
-# examples/test_example_001_basic_assert.py
-
 def test_basic_addition():
     assert 1 + 1 == 2
 

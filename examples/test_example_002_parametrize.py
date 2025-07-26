@@ -14,11 +14,11 @@ def test_addition(a, b, expected):
     assert a + b == expected
 
 
-# ✅ T# examples/test_example_002_parametrize.py
+#  examples/test_example_002_parametrize.py
 
 import pytest
 
-# ✅ Test multiple addition cases using parametrize
+# Test multiple addition cases using parametrize
 @pytest.mark.parametrize("a, b, expected", [
     (1, 1, 2),        # simple case
     (2, 3, 5),        # another simple case
