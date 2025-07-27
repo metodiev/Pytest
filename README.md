@@ -3,6 +3,7 @@ This repository demonstrates the use of Pytest for testing Python applications. 
 
 ## Install Dependecies
 
+- Navigate to the root folder of the project and run one of the below commands
 
 ```bash
 pip3 install -r requirements.txt --break-system-packages
