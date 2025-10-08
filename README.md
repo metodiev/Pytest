@@ -1,3 +1,11 @@
+<!-- ====== Badges (centered) ====== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pytest-5A5A5A?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Tutorials-FFA500?style=for-the-badge&logo=bookstack&logoColor=white" alt="Tutorials" />
+</p>
+
+
 # Pytest
 This repository demonstrates the use of Pytest for testing Python applications. It includes sample test cases, fixtures, test organization patterns, and custom configurations to provide a complete testing framework. Ideal for learning, practicing, or using as a template for other projects.
 
